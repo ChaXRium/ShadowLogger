@@ -28,3 +28,18 @@
 2. Open in Android Studio or build with Gradle
 3. Replace BOT_TOKEN and CHAT_ID in TelegramUtils.java
 4. Enable Accessibility Service manually after installation
+
+---
+
+## 🛡️ Disclaimer
+- This project is intended for educational and parental guidance use only. Unauthorized use to track individuals without consent may violate local laws. Use responsibly.
+
+---
+
+## 📬 Contact
+- Created by Charith Rajapaksha
+
+
+---
+
+
